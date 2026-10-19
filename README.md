@@ -2,6 +2,10 @@
 Packet Tracer projekat koji demonstrira konfiguraciju i funkcionisanje mrežne infrastrukture, uključujući VLAN-ove, rutiranje, OSPF, DHCP, HSRP i druge mrežne tehnologije. 
 A Packet Tracer project demonstrating network infrastructure configuration and operation, including VLANs, routing, OSPF, DHCP, and other networking technologies.
 
+## Network Topology
+
+![Network Topology](images/topology_img.png)
+
 # Redundant Network Infrastructure – Cisco Packet Tracer
 
 ## Overview
